@@ -1,0 +1,2 @@
+# MagazaStokUygulamasi
+Mağaza Stok Uygulaması
